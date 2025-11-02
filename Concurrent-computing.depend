@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1762107005 source:c:\users\adamm\desktop\concurrent-computing\zad 1.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+
+1762109005 source:c:\users\adamm\desktop\concurrent-computing\zad.c
+	<pthread.h>
+	<stdio.h>
+	<stdlib.h>
+
+1762109687 source:c:\users\adamm\desktop\concurrent-computing\cw1.c
+	<stdlib.h>
+	<pthread.h>
+
+1762111825 source:c:\users\adamm\desktop\concurrent-computing\mutex.c
+	<stdlib.h>
+	<pthread.h>
+
+1762116428 source:c:\users\adamm\desktop\concurrent-computing\semafor.c
+	<stdlib.h>
+	<pthread.h>
+	<semaphore.h>
+
